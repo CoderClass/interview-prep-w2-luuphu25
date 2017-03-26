@@ -49,8 +49,8 @@ What you will submit:
 - [x] Watch concept video: [HackerRank Video: Hash Tables](https://www.youtube.com/watch?v=shs0KM3wKv8) (6m)
 
 Extras: 
-- [ ] [Introducing Hash Tables](https://www.youtube.com/watch?v=MfhjkfocRR0) (7m)
-- [ ] [Hash Table Algorithms](https://www.youtube.com/watch?v=Ke_tII6Y0GE) (7m)
+- [x] [Introducing Hash Tables](https://www.youtube.com/watch?v=MfhjkfocRR0) (7m)
+- [x] [Hash Table Algorithms](https://www.youtube.com/watch?v=Ke_tII6Y0GE) (7m)
 
 **Coding**
 
