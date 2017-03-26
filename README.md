@@ -11,14 +11,37 @@ What you will submit:
 
 **Big O Notation**
 
-- [ ] Watch [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)(8m)
+- [x] Watch [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)(8m)
   - I have learned that...
-- [ ] Read [Big O Notation in plain English](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation) and write down what you learned from it
+    4 rule to determine big O ( complex of algorithm )
+
+    * Different step get added
+    * Drop constants
+      < O(2n) => O(n)
+    * Different input -> different variables
+      - different array has different size
+    * Drop non-determine term < O(n+n2) => O(n2) >
+- [x] Read [Big O Notation in plain English](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation) and write down what you learned from it
   - I have learned that...
-- [ ] Visit http://bigocheatsheet.com/ and think about how useful it could be to you
-  - This sheet makes more sense to me now /OR/ This sheet does not make sense to me.
-- [ ] Watch LogN in 5m: https://www.youtube.com/watch?v=kjDR1NBB9MU
+    define : Big-O notation is a relative representation of the complexity of an algorithm
+        O(1): known as Constant complexity
+        O(n) or linear complexity
+        O(n2) or quadratic complexity
+        O(log n): known as Logarithmic complexity
+- [x] Visit http://bigocheatsheet.com/ and think about how useful it could be to you
+  - This sheet makes more sense to me now 
+- [x] Watch LogN in 5m: https://www.youtube.com/watch?v=kjDR1NBB9MU
   - I have learned that...
+    binary-search has O:(log N)
+        rule : n * (1/2)^x  = 1 
+        step = Log2(n)
+    apply to sort : => quicksort 
+    quick sort :
+    sperate array : move lesser to lelf side) + greater to right side_(:compare with piviot)
+    stop when has 1 element each array 
+    piviot is position sperate
+    quicksort O(nlogN)
+
   
 **Hashtables**
 
@@ -31,7 +54,7 @@ Extras:
 
 **Coding**
 
-- [ ] Set up an account on Interviewbit.com and start the [Programming course](https://www.interviewbit.com/courses/programming/)
+- [x] Set up an account on Interviewbit.com and start the [Programming course](https://www.interviewbit.com/courses/programming/)
 - [ ] Finish at least 2 tasks on Exercism
 
 ### Optional tasks
