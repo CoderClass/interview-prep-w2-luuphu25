@@ -55,7 +55,7 @@ Extras:
 **Coding**
 
 - [x] Set up an account on Interviewbit.com and start the [Programming course](https://www.interviewbit.com/courses/programming/)
-- [ ] Finish at least 2 tasks on Exercism
+- [x] Finish at least 2 tasks on Exercism
 
 ### Optional tasks
 
